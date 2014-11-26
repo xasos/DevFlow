@@ -5,7 +5,7 @@ DevFlow
 ==============
 
 ## What is DevFlow?
-Deflow is a network for developers and designers to share how they work. You can build the site with the instructions below or visit the website live [here](https://devflow.firebaseapp.com). Built at CodeDay Chicago Fall 2014.
+Deflow is a network for developers and designers to share how they work. You can build the site with the instructions below or visit the website live [here](https://devflow.firebaseapp.com). Built at CodeDay Chicago Fall 2014 and won Best Application.
 
 ## Building DevFlow
 ```sh
